@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/TPU_WorkSpace/inf_theory/lab3_b/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab3.dir\\main.cpp.obj -c D:\\TPU_WorkSpace\\inf_theory\\lab3_b\\main.cpp",
+  "file": "D:\\TPU_WorkSpace\\inf_theory\\lab3_b\\main.cpp",
+  "output": "CMakeFiles\\lab3.dir\\main.cpp.obj"
+}
+]
